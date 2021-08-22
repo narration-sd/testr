@@ -1,0 +1,13 @@
+{
+  "name": "testr",
+  "version": "1.0.0",
+  "description": "check out, assure how GihHub Action testing occurs",
+  "main": "index.js",
+  "scripts": {
+    "testr": "node src/main.js",
+    "test": "node src/main.js"
+  },
+  "keywords": ["test-test"],
+  "author": "narrationsd",
+  "license": "GPLV2"
+}
